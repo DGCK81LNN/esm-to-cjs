@@ -19,6 +19,14 @@
     "acorn"
   ],
   "author": "DGCK81LNN <triluolnn@163.com>",
+  "homepage": "https://github.com/DGCK81LNN/esm-to-cjs#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DGCK81LNN/esm-to-cjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DGCK81LNN/esm-to-cjs/issues"
+  },
   "license": "MIT",
   "dependencies": {
     "acorn": "^8.15.0"
