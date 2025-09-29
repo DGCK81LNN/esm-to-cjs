@@ -1,0 +1,33 @@
+{
+  "name": "@dgck81lnn/esm-to-cjs",
+  "version": "0.2.1",
+  "description": "A simple ESM to CJS converter using acorn",
+  "files": [
+    "index.js",
+    "index.mjs",
+    "index.d.ts",
+    "index.d.mts",
+    "index.test.js"
+  ],
+  "main": "index.js",
+  "module": "index.mjs",
+  "types": "index.d.ts",
+  "keywords": [
+    "esm",
+    "cjs",
+    "converter",
+    "acorn"
+  ],
+  "author": "DGCK81LNN <triluolnn@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "acorn": "^8.15.0"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0"
+  },
+  "packageManager": "yarn@4.9.1",
+  "scripts": {
+    "test": "jest"
+  }
+}
